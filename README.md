@@ -9,4 +9,4 @@ code : Python file
 
 data : Diabetes.csv
 
-src : https://medium.com/@sonawaneajinks/building-the-na%C3%AFve-bayes-classifier-from-scratch-in-python-b0717fa022d8
+Reference : https://medium.com/@sonawaneajinks/building-the-na%C3%AFve-bayes-classifier-from-scratch-in-python-b0717fa022d8
